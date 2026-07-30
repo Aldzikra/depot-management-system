@@ -1,11 +1,3 @@
-Siap, berdasar gambar struktur direktori yang kamu kirim, ternyatanya ini pakai **Next.js** (`next.config.ts`, `next-env.d.ts`), **Tailwind CSS/PostCSS** (`postcss.config.mjs`), dan **shadcn/ui** (`components.json`).
-
-Berikut adalah **2 versi README.md** tanpa bagian *Team/Kelompok* (proyek personal), disesuaikan langsung dengan struktur Next.js App Router + TypeScript terbaru kamu:
-
----
-
-## 📄 Versi 1: `README.md` (Gaya Modern Open-Source & Feature Showcase)
-
 ```markdown
 # 🚰 DepotAir Web
 
